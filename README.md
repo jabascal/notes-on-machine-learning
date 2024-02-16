@@ -15,6 +15,7 @@ The first part of this repository comprises theory and examples on statistical l
 
 * Descriptive statistics/Exploratory analysis
     *   Exploratory image analysis - Density plots: [colab notebook](https://github.com/jabascal/notes-on-machine-learning/blob/master/exploratory_analysis_histograms.ipynb), [Medium article](https://medium.com/@juanabascal78/exploratory-image-analysis-part-1-advanced-density-plots-19b255075dbd)
+    *   Exploratory image analysis - Projection embeddings on Tensorboard: [colab notebook](https://github.com/jabascal/notes-on-machine-learning/blob/master/exploratory_analysis_embedding_tb.ipynb), [Medium article](). 
 
 
 * Classification
